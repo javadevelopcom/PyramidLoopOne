@@ -6,7 +6,7 @@ public class PyramidOne {
             for (int s = i; s < 4; s++) {  //spaces
                 System.out.print(" ");
             }
-            for (int j = 0; j <= i; j++) { //*
+            for (int j = 0; j <= i; j++) { //* columns
                 System.out.print("* ");
             }
             System.out.println();           //next row

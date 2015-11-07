@@ -6,7 +6,7 @@ public class PyramidSix {
             for (int s = 0; s < i; s++) {        //space " "
                 System.out.print(" ");
             }
-            for (int j = i; j < 5; j++) {         //*
+            for (int j = i; j < 5; j++) {         //* columns
                 System.out.print("*");
             }
             System.out.println();                 //next row

@@ -22,6 +22,7 @@ public class Main {
         System.out.println();
 
         p2.pyramidTwo();
+        System.out.println();
 
         p3.pyramidThree();
         System.out.println();
@@ -30,6 +31,7 @@ public class Main {
         System.out.println();
 
         p5.pyramidFive();
+        System.out.println();
 
         p6.pyramidSix();
         System.out.println();

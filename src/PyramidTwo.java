@@ -3,7 +3,7 @@ public class PyramidTwo {
     public void pyramidTwo() {
 
         for (int i = 0; i < 5; i++) {      //rows
-            for (int j = 0; j <= i; j++) { //*
+            for (int j = 0; j <= i; j++) { //* columns
                 System.out.print(" *");
             }
             System.out.println();           //next row

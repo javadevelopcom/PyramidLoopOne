@@ -6,7 +6,7 @@ public class PyramidThree {
             for (int s = 0; s < 1; s++) {  //spaces
                 System.out.print(" ");
             }
-            for (int j = i; j < 4; j++) { //*
+            for (int j = i; j < 4; j++) { //* columns
                 System.out.print("* ");
             }
             System.out.println();           //next row
