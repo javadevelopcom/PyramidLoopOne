@@ -18,6 +18,9 @@ public class Main {
         p1.pyramidOne();
         System.out.println();
 
+        r.rectangle();
+        System.out.println();
+
         p2.pyramidTwo();
 
         p3.pyramidThree();
